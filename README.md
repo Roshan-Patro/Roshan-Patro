@@ -25,3 +25,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshan-Patro&show_icons=true&count_private=true&theme=merko" alt="roshan-patro"/></p>
 
 [![Roshan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roshan-Patro&theme=react-dark)](https://github.com/roshan-patro/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Patro&theme=dark)](https://github.com/Roshan-Patro/github-readme-stats)
+

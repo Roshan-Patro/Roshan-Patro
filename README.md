@@ -23,3 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-patro&" alt="roshan-patro" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Roshan-Patro&show_icons=true&count_private=true&theme=merko" alt="roshan-patro"/></p>
+
+[![Roshan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roshan-Patro&theme=react-dark)](https://github.com/roshan-patro/github-readme-activity-graph)

@@ -35,4 +35,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roshan-Patro&theme=dark)](https://github.com/Roshan-Patro/github-readme-stats)
 
-[![Roshan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roshan-Patro&theme=react-dark)](https://github.com/roshan-patro/github-readme-activity-graph)
+<!-- [![Roshan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Roshan-Patro&theme=react-dark)](https://github.com/roshan-patro/github-readme-activity-graph) -->
+
+<!-- https://starchart.cc/roshan-patro/{repo}.svg -->

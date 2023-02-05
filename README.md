@@ -6,9 +6,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan-patro&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-patro" /> </p> -->
 
 
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Spring Security**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java and Spring Boot**
+- 💬 Ask me about **Data Structures and Algorithms, HTML, CSS, JavaScript, Java, SQL, JDBC, Hibernate, Spring and Spring Boot**
 
 - 📫 How to reach me **patro.roshan1997@gmail.com**
 

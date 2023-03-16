@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107461385/225526429-a46610c2-4355-47b1-b231-d7af6c11f00e.png"/>
+</p>
+
 <h1 align="center">Hi there 👋, I am Roshan Patro</h1>
 <h3 align="center">A motivated Java Developer from India.</h3>
 

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/107461385/225530711-34440c54-3d88-48fb-a488-47bb4906c400.png"/>
+<img src="https://user-images.githubusercontent.com/107461385/225531601-c3505583-57f8-4572-9ed6-2cdd3a814de7.png"/>
 </p>
 
 <h1 align="center">Hi there 👋, I am Roshan Patro</h1>
